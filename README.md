@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Divakar Srivastava 
 - 👀 I’m interested in exploring the technology
 - 🌱 I’m currently learning Python Web Development and Networking
-- 💞️ I’m looking to collaborate on IT Sectos
+- 💞️ I’m looking to collaborate on IT Sectors
 - 📫 Mail me divakarsrivastava637@gmail.com
 
 <!---
